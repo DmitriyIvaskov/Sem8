@@ -1,0 +1,15 @@
+D:\00_GeekBrains\Урок 8. Двумерные массивы. Продолжение\Sem8\Ex54\bin\Debug\net6.0\Ex54.exe
+D:\00_GeekBrains\Урок 8. Двумерные массивы. Продолжение\Sem8\Ex54\bin\Debug\net6.0\Ex54.deps.json
+D:\00_GeekBrains\Урок 8. Двумерные массивы. Продолжение\Sem8\Ex54\bin\Debug\net6.0\Ex54.runtimeconfig.json
+D:\00_GeekBrains\Урок 8. Двумерные массивы. Продолжение\Sem8\Ex54\bin\Debug\net6.0\Ex54.dll
+D:\00_GeekBrains\Урок 8. Двумерные массивы. Продолжение\Sem8\Ex54\bin\Debug\net6.0\Ex54.pdb
+D:\00_GeekBrains\Урок 8. Двумерные массивы. Продолжение\Sem8\Ex54\obj\Debug\net6.0\Ex54.csproj.AssemblyReference.cache
+D:\00_GeekBrains\Урок 8. Двумерные массивы. Продолжение\Sem8\Ex54\obj\Debug\net6.0\Ex54.GeneratedMSBuildEditorConfig.editorconfig
+D:\00_GeekBrains\Урок 8. Двумерные массивы. Продолжение\Sem8\Ex54\obj\Debug\net6.0\Ex54.AssemblyInfoInputs.cache
+D:\00_GeekBrains\Урок 8. Двумерные массивы. Продолжение\Sem8\Ex54\obj\Debug\net6.0\Ex54.AssemblyInfo.cs
+D:\00_GeekBrains\Урок 8. Двумерные массивы. Продолжение\Sem8\Ex54\obj\Debug\net6.0\Ex54.csproj.CoreCompileInputs.cache
+D:\00_GeekBrains\Урок 8. Двумерные массивы. Продолжение\Sem8\Ex54\obj\Debug\net6.0\Ex54.dll
+D:\00_GeekBrains\Урок 8. Двумерные массивы. Продолжение\Sem8\Ex54\obj\Debug\net6.0\refint\Ex54.dll
+D:\00_GeekBrains\Урок 8. Двумерные массивы. Продолжение\Sem8\Ex54\obj\Debug\net6.0\Ex54.pdb
+D:\00_GeekBrains\Урок 8. Двумерные массивы. Продолжение\Sem8\Ex54\obj\Debug\net6.0\Ex54.genruntimeconfig.cache
+D:\00_GeekBrains\Урок 8. Двумерные массивы. Продолжение\Sem8\Ex54\obj\Debug\net6.0\ref\Ex54.dll
